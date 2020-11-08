@@ -9,3 +9,5 @@ URL end points are
         'Delete': '/task-delete/<str:pk>/',
 		
 Clone the repository and run the django server to get the django rest framework todo endpoints
+
+Will be creating Android app as fronded to the ToDo app 
